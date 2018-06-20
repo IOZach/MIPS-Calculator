@@ -36,9 +36,9 @@ You need MARS SDK play the solution.
 
 calculator.asm -- Assembly language calculator.
 
-Copyright (c) 2015, IOZack.
+Copyright (c) 2015, IOZach.
 
-Written by Zakaria Abushima <im@zack.today>
+Written by Zachariah Windett <zachwindett@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
