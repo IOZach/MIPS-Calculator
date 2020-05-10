@@ -38,7 +38,7 @@ calculator.asm -- Assembly language calculator.
 
 Copyright (c) 2015, PrinceZUK.
 
-Written by Zakaria Bin Faisal bin Abdulaziz Al Saud <hello@princez.uk>
+Written by Zakaria <hello@princez.uk>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
